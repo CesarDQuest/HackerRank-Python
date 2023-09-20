@@ -1,2 +1,2 @@
 # HackerRank-Python
-My Python's learning journey through HackerRank.
+My Python's learning journey through solving every [HackerRank's Python problems](https://www.hackerrank.com/domains/python).
